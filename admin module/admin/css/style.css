@@ -1,0 +1,16 @@
+
+.sidebar1
+{
+    background-color: rgb(176, 204, 197);
+}
+.sidebar-link a 
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(7, 51, 36);
+}
+.sidebar-link li 
+{
+    display: block !important;
+    padding: 15px 5px;
+}
